@@ -1,1 +1,21 @@
-vishal mishra
+supervised machine learning
+          -linear regression
+          -classification
+
+libraries
+   -numpy
+   -pandas
+   -matplotlib
+
+flask
+
+html
+css  
+js mid
+react
+
+
+git and github
+netlify
+heroku
+render
