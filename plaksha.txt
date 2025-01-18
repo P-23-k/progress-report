@@ -1,0 +1,14 @@
+started with basics of machine learning 
+Supervised learning 
+   -Regression
+  -Classification
+Unsupervised learning 
+  -Clustering
+  -Dimensionality reduction
+  -Association
+  -Anamoly detection 
+Semisupervised learning 
+Reinforcement 
+
+Batch/offline learning 
+Sequential/online learning 
