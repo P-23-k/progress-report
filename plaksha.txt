@@ -1,0 +1,2 @@
+started the basics of machine learning like supervised, unsupervised,semisupervised,reinforcemet machine learning .
+Batch and sequential learning.
